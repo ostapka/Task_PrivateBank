@@ -1,0 +1,1 @@
+CALL generate_operations_data(100000);

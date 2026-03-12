@@ -1,0 +1,1 @@
+CREATE PUBLICATION my_op_pub FOR TABLE Operations;
